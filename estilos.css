@@ -13,3 +13,21 @@
 
 }
 
+.grupo-radio
+{
+	width:  50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.contato-select
+{
+	width:  50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.grupo-radio .radio:first-child
+{
+	margin-top: 0;
+}
